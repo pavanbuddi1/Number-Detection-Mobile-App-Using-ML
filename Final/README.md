@@ -5,7 +5,7 @@ classify the digits. The digits should be placed in their respective folders aft
 of the images on the master mobile.
 
 Deliverables:
-1) Mobile Application: The mobile application will be exactly similar to Assignment 2 only
+1) Mobile Application: The mobile application will be exactly similar to Base only
 you need to divide the image into 4 parts and send each piece to a different client
 mobile.
 2) Client Mobiles: This time you will need to train a basic deep-learning framework from
