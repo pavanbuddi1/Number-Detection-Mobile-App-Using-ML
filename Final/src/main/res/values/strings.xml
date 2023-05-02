@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CamCapture_Offloading3</string>
+    <string name="text_capture">Do you want to capture and upload an image?</string>
+    <string name="button_capture">CAPTURE!</string>
+    <string name="button_exit">Not Interested</string>
+    <string name="button_upload">Upload</string>
+    <string name="imageview">Bitmap Image view</string>
+    <string name="button2">Yes</string>
+    <string name="button3">No</string>
+</resources>
